@@ -1,0 +1,9 @@
+D:\asp.net\project1\bin\Debug\project1.exe.config
+D:\asp.net\project1\bin\Debug\project1.exe
+D:\asp.net\project1\bin\Debug\project1.pdb
+D:\asp.net\project1\obj\Debug\project1.csprojAssemblyReference.cache
+D:\asp.net\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+D:\asp.net\project1\obj\Debug\project1.exe
+D:\asp.net\project1\obj\Debug\project1.pdb
+E:\College\2nd term\NET\Maharshi_Patel_Project1\project1\obj\Debug\project1.csprojAssemblyReference.cache
+E:\College\2nd term\NET\Maharshi_Patel_Project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
